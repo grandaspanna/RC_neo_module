@@ -10,3 +10,5 @@ The software is written in the Arduino IDE and leverages the MegaTinyCore (https
 The code uses the built-in features of the microcontroller to precisely measure the PWM signal width and even at 4MHz clock rate, has a better than 1 microsecond resolution.
 
 In summary, the module is designed to make sophisticated lighting patterns possible in response to the two PWM signals being monitored. They can be any two (or one) channel from an RC receiver. The use of channel mirroring/mixing or direct tapping into the throttle or steering channels via a y-cable is possible and practical.
+This is an example of the module in use: https://www.youtube.com/watch?v=tlSBbWml3F8
+
