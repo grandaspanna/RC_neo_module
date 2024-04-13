@@ -33,3 +33,11 @@ For all intents and purposes, it is probably best to treat that part of the code
 * PWM value (pwm1_value & pwm2_value) which is the pulse width in microseconds
 
 Be wary of changing code or running different clock frequencies, as the code is mostly written around a 4MHz clock frequency which is both robust and accurate. It yields 0.5 microsecond resolution as-is.
+
+# Wiring
+The following two images show wiring connections and relation to microcontroller pins:
+![module top](https://github.com/grandaspanna/RC_neo_module/assets/54263749/e3e204ba-5f4c-443d-b25c-0ae177e194ee)
+
+![module bottom](https://github.com/grandaspanna/RC_neo_module/assets/54263749/92f1f984-7bd2-4234-8e54-d1a064a94008)
+
+
